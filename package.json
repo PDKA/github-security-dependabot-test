@@ -1,0 +1,9 @@
+{
+  "name": "github-security-demo",
+  "version": "1.0.0",
+  "description": "Demo project for Dependabot",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
